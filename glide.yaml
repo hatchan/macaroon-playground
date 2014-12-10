@@ -1,0 +1,5 @@
+package: github.com/hatchan/macaroon-playground
+import:
+  - package: gopkg.in/macaroon.v1
+  - package: github.com/codegangsta/cli
+  - package: github.com/Sirupsen/logrus
